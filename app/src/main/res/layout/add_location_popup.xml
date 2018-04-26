@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="325dp"
+    android:layout_width="300dp"
+    android:gravity="center"
+    android:padding="50dp"
+    android:orientation="vertical"
+    android:background="@color/colorPopBackground">
+
+    <Button
+        android:id="@+id/gpsButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Use GPS"/>
+
+    <View
+        android:layout_width="wrap_content"
+        android:layout_height="50dp" />
+    <Button
+        android:id="@+id/manualButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Manual"/>
+
+</LinearLayout>

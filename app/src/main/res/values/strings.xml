@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Place Rate</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="cancel">Cancel</string>
+    <string name="welcome">Welcome!</string>
+    <string name="view_saved_locations">View Saved Locations</string>
+    <string name="add_location">Add Location</string>
+    <string name="rating">Rating</string>
+    <string name="type">Type</string>
+    <string name="address">Address</string>
+    <string name="name">Name</string>
+    <string name="save">Save</string>
+
+    <string name="test">TEST</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="view_profile">View Profile</string>
+</resources>
